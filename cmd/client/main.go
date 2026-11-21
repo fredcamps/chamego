@@ -3,9 +3,6 @@ package main
 import (
 	"context"
 	"fmt"
-	"log"
-
-	"github.com/fredcamps/chamego/pkg/core"
 )
 
 func main() {
