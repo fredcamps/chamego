@@ -1,0 +1,33 @@
+# Binaries for all go commands
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories
+vendor/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Coverage reports
+coverage.txt
+profile.out
+profile
+
+# Build artifacts
+chamego.test
+chamego.exe
